@@ -1,0 +1,26 @@
+.indexBody,
+.pizzaBody,
+.chococakeBody,
+.tunasaladBody{
+    
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.indexBody{
+    background-color: rgb(80, 165, 177);
+}
+
+.pizzaBody{
+    background-color: rgb(165, 127, 44);
+}
+.chococakeBody{
+    background-color: rgb(99, 60, 60);
+}
+.tunasaladBody{
+    background-color: rgb(89, 179, 179);
+}
+.pizzaTitle{
+    color:red;
+}
